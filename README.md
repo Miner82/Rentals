@@ -1,5 +1,5 @@
 # Rentals
-                                             A look at price-demand sensitivity for apartment leases (A data challenge for a recent job interiew)
+                           A look at price-demand sensitivity for apartment leases (A data challenge for a recent job interiew)
     An analytics firm has been asked by a real estate leasing company to look at the price-demand sensitivity of apartment rents.
 More specifically, can revenue (rents) be better optimized. it is known that rents can be demand sensitive (as the stock of unleased units goes down, the rent quoted can go up.
 We are given about five years of leasing history (2012-2018), rent rates, leases, and 11 types of apartment plans - studio with loft, 2 BR, 1BR etc.
